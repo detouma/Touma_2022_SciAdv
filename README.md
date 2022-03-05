@@ -1,7 +1,7 @@
 # Touma_2022_SciAdv
 This dataset was used to plot figures, write results, and draw conclusions for Climate change increases risk of extreme rainfall following wildfire in the western United States by Touma et al. (2022) Science Advances (doi: 10.1126/sciadv.abm0320).
 
-There are 10 zipped directories with several files in them each. Each zipped file has a README.txt file with a brief explanation of each file. All datafiles are netcdf files and have metadata with the appropriate information.
+There are 10 zipped directories with several files in them each. All datafiles are netcdf files and have metadata with the appropriate information.
 
 fwi99.9_annual_freq.zip for Figs. 1 A-C, 2 and 3 A and figs. S1 and S2 B
 
